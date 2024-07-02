@@ -1,4 +1,4 @@
-[Makefile CI](https://github.com/mtberdaan/vic/actions/workflows/makefile.yml/badge.svg)](https://github.com/mtberdaan/vic/actions/workflows/makefile.yml)
+[![Makefile CI](https://github.com/mtberdaan/vic/actions/workflows/makefile.yml/badge.svg)](https://github.com/mtberdaan/vic/actions/workflows/makefile.yml)
 
 # vic
 
